@@ -1,0 +1,4 @@
+{"Nombre":"jauna antonio ramos guzman","Matricula":"186010082","Correo":"jr.juanito.jarg@gmail.com","Promedio":"90"}
+{"Nombre":"ana patricia barba escamilla","Matricula":"186010062","Correo":"paty.brb@gmail.com","Promedio":"85"}
+{"Nombre":"ingrid sarahi ","Matricula":"1860123","Correo":"ingriddejesus@gmail.com","Promedio":"80"}
+{"Nombre":"mateo sarmiento","Matricula":"1866230","Correo":"mateosarmiento@gmail,com","Promedio":"90"}
